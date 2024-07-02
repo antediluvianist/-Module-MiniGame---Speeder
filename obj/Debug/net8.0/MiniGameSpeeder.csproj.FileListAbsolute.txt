@@ -1,0 +1,140 @@
+F:\Document\DEV\C#\MiniGameSpeeder\bin\Debug\net8.0\MiniGameSpeeder.exe
+F:\Document\DEV\C#\MiniGameSpeeder\bin\Debug\net8.0\MiniGameSpeeder.deps.json
+F:\Document\DEV\C#\MiniGameSpeeder\bin\Debug\net8.0\MiniGameSpeeder.runtimeconfig.json
+F:\Document\DEV\C#\MiniGameSpeeder\bin\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\bin\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\obj\Debug\net8.0\MiniGameSpeeder.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\MiniGameSpeeder\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfo.cs
+F:\Document\DEV\C#\MiniGameSpeeder\obj\Debug\net8.0\MiniGameSpeeder.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\obj\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\obj\Debug\net8.0\refint\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\obj\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\obj\Debug\net8.0\MiniGameSpeeder.genruntimeconfig.cache
+F:\Document\DEV\C#\MiniGameSpeeder\obj\Debug\net8.0\ref\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\2\bin\Debug\net8.0\MiniGameSpeeder.exe
+F:\Document\DEV\C#\MiniGameSpeeder\2\bin\Debug\net8.0\MiniGameSpeeder.deps.json
+F:\Document\DEV\C#\MiniGameSpeeder\2\bin\Debug\net8.0\MiniGameSpeeder.runtimeconfig.json
+F:\Document\DEV\C#\MiniGameSpeeder\2\bin\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\2\bin\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\2\obj\Debug\net8.0\MiniGameSpeeder.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\MiniGameSpeeder\2\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\2\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfo.cs
+F:\Document\DEV\C#\MiniGameSpeeder\2\obj\Debug\net8.0\MiniGameSpeeder.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\2\obj\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\2\obj\Debug\net8.0\refint\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\2\obj\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\2\obj\Debug\net8.0\MiniGameSpeeder.genruntimeconfig.cache
+F:\Document\DEV\C#\MiniGameSpeeder\2\obj\Debug\net8.0\ref\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\3\bin\Debug\net8.0\MiniGameSpeeder.exe
+F:\Document\DEV\C#\MiniGameSpeeder\3\bin\Debug\net8.0\MiniGameSpeeder.deps.json
+F:\Document\DEV\C#\MiniGameSpeeder\3\bin\Debug\net8.0\MiniGameSpeeder.runtimeconfig.json
+F:\Document\DEV\C#\MiniGameSpeeder\3\bin\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\3\bin\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\3\obj\Debug\net8.0\MiniGameSpeeder.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\MiniGameSpeeder\3\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\3\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfo.cs
+F:\Document\DEV\C#\MiniGameSpeeder\3\obj\Debug\net8.0\MiniGameSpeeder.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\3\obj\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\3\obj\Debug\net8.0\refint\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\3\obj\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\3\obj\Debug\net8.0\MiniGameSpeeder.genruntimeconfig.cache
+F:\Document\DEV\C#\MiniGameSpeeder\3\obj\Debug\net8.0\ref\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\5\bin\Debug\net8.0\MiniGameSpeeder.exe
+F:\Document\DEV\C#\MiniGameSpeeder\5\bin\Debug\net8.0\MiniGameSpeeder.deps.json
+F:\Document\DEV\C#\MiniGameSpeeder\5\bin\Debug\net8.0\MiniGameSpeeder.runtimeconfig.json
+F:\Document\DEV\C#\MiniGameSpeeder\5\bin\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\5\bin\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\5\obj\Debug\net8.0\MiniGameSpeeder.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\MiniGameSpeeder\5\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\5\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfo.cs
+F:\Document\DEV\C#\MiniGameSpeeder\5\obj\Debug\net8.0\MiniGameSpeeder.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\5\obj\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\5\obj\Debug\net8.0\refint\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\5\obj\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\5\obj\Debug\net8.0\MiniGameSpeeder.genruntimeconfig.cache
+F:\Document\DEV\C#\MiniGameSpeeder\5\obj\Debug\net8.0\ref\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\6\bin\Debug\net8.0\MiniGameSpeeder.exe
+F:\Document\DEV\C#\MiniGameSpeeder\6\bin\Debug\net8.0\MiniGameSpeeder.deps.json
+F:\Document\DEV\C#\MiniGameSpeeder\6\bin\Debug\net8.0\MiniGameSpeeder.runtimeconfig.json
+F:\Document\DEV\C#\MiniGameSpeeder\6\bin\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\6\bin\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\6\obj\Debug\net8.0\MiniGameSpeeder.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\MiniGameSpeeder\6\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\6\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfo.cs
+F:\Document\DEV\C#\MiniGameSpeeder\6\obj\Debug\net8.0\MiniGameSpeeder.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\6\obj\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\6\obj\Debug\net8.0\refint\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\6\obj\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\6\obj\Debug\net8.0\MiniGameSpeeder.genruntimeconfig.cache
+F:\Document\DEV\C#\MiniGameSpeeder\6\obj\Debug\net8.0\ref\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\6 vaisseau sSs\bin\Debug\net8.0\MiniGameSpeeder.exe
+F:\Document\DEV\C#\MiniGameSpeeder\6 vaisseau sSs\bin\Debug\net8.0\MiniGameSpeeder.deps.json
+F:\Document\DEV\C#\MiniGameSpeeder\6 vaisseau sSs\bin\Debug\net8.0\MiniGameSpeeder.runtimeconfig.json
+F:\Document\DEV\C#\MiniGameSpeeder\6 vaisseau sSs\bin\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\6 vaisseau sSs\bin\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\6 vaisseau sSs\obj\Debug\net8.0\MiniGameSpeeder.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\MiniGameSpeeder\6 vaisseau sSs\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\6 vaisseau sSs\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfo.cs
+F:\Document\DEV\C#\MiniGameSpeeder\6 vaisseau sSs\obj\Debug\net8.0\MiniGameSpeeder.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\6 vaisseau sSs\obj\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\6 vaisseau sSs\obj\Debug\net8.0\refint\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\6 vaisseau sSs\obj\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\6 vaisseau sSs\obj\Debug\net8.0\MiniGameSpeeder.genruntimeconfig.cache
+F:\Document\DEV\C#\MiniGameSpeeder\6 vaisseau sSs\obj\Debug\net8.0\ref\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\7 reduce highway\bin\Debug\net8.0\MiniGameSpeeder.exe
+F:\Document\DEV\C#\MiniGameSpeeder\7 reduce highway\bin\Debug\net8.0\MiniGameSpeeder.deps.json
+F:\Document\DEV\C#\MiniGameSpeeder\7 reduce highway\bin\Debug\net8.0\MiniGameSpeeder.runtimeconfig.json
+F:\Document\DEV\C#\MiniGameSpeeder\7 reduce highway\bin\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\7 reduce highway\bin\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\7 reduce highway\obj\Debug\net8.0\MiniGameSpeeder.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\MiniGameSpeeder\7 reduce highway\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\7 reduce highway\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfo.cs
+F:\Document\DEV\C#\MiniGameSpeeder\7 reduce highway\obj\Debug\net8.0\MiniGameSpeeder.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\7 reduce highway\obj\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\7 reduce highway\obj\Debug\net8.0\refint\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\7 reduce highway\obj\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\7 reduce highway\obj\Debug\net8.0\MiniGameSpeeder.genruntimeconfig.cache
+F:\Document\DEV\C#\MiniGameSpeeder\7 reduce highway\obj\Debug\net8.0\ref\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\8 flip\bin\Debug\net8.0\MiniGameSpeeder.exe
+F:\Document\DEV\C#\MiniGameSpeeder\8 flip\bin\Debug\net8.0\MiniGameSpeeder.deps.json
+F:\Document\DEV\C#\MiniGameSpeeder\8 flip\bin\Debug\net8.0\MiniGameSpeeder.runtimeconfig.json
+F:\Document\DEV\C#\MiniGameSpeeder\8 flip\bin\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\8 flip\bin\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\8 flip\obj\Debug\net8.0\MiniGameSpeeder.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\MiniGameSpeeder\8 flip\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\8 flip\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfo.cs
+F:\Document\DEV\C#\MiniGameSpeeder\8 flip\obj\Debug\net8.0\MiniGameSpeeder.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\8 flip\obj\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\8 flip\obj\Debug\net8.0\refint\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\8 flip\obj\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\8 flip\obj\Debug\net8.0\MiniGameSpeeder.genruntimeconfig.cache
+F:\Document\DEV\C#\MiniGameSpeeder\8 flip\obj\Debug\net8.0\ref\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\9 obstacle 2.0\obj\Debug\net8.0\MiniGameSpeeder.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\MiniGameSpeeder\9 obstacle 2.0\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\9 obstacle 2.0\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfo.cs
+F:\Document\DEV\C#\MiniGameSpeeder\9 obstacle 2.0\obj\Debug\net8.0\MiniGameSpeeder.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\9 obstacle 2.0\obj\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\9 obstacle 2.0\obj\Debug\net8.0\refint\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\9 obstacle 2.0\obj\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\9 obstacle 2.0\bin\Debug\net8.0\MiniGameSpeeder.exe
+F:\Document\DEV\C#\MiniGameSpeeder\9 obstacle 2.0\bin\Debug\net8.0\MiniGameSpeeder.deps.json
+F:\Document\DEV\C#\MiniGameSpeeder\9 obstacle 2.0\bin\Debug\net8.0\MiniGameSpeeder.runtimeconfig.json
+F:\Document\DEV\C#\MiniGameSpeeder\9 obstacle 2.0\bin\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\9 obstacle 2.0\bin\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\9 obstacle 2.0\obj\Debug\net8.0\MiniGameSpeeder.genruntimeconfig.cache
+F:\Document\DEV\C#\MiniGameSpeeder\9 obstacle 2.0\obj\Debug\net8.0\ref\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\9 GRAND obstacle\bin\Debug\net8.0\MiniGameSpeeder.exe
+F:\Document\DEV\C#\MiniGameSpeeder\9 GRAND obstacle\bin\Debug\net8.0\MiniGameSpeeder.deps.json
+F:\Document\DEV\C#\MiniGameSpeeder\9 GRAND obstacle\bin\Debug\net8.0\MiniGameSpeeder.runtimeconfig.json
+F:\Document\DEV\C#\MiniGameSpeeder\9 GRAND obstacle\bin\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\9 GRAND obstacle\bin\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\9 GRAND obstacle\obj\Debug\net8.0\MiniGameSpeeder.GeneratedMSBuildEditorConfig.editorconfig
+F:\Document\DEV\C#\MiniGameSpeeder\9 GRAND obstacle\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfoInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\9 GRAND obstacle\obj\Debug\net8.0\MiniGameSpeeder.AssemblyInfo.cs
+F:\Document\DEV\C#\MiniGameSpeeder\9 GRAND obstacle\obj\Debug\net8.0\MiniGameSpeeder.csproj.CoreCompileInputs.cache
+F:\Document\DEV\C#\MiniGameSpeeder\9 GRAND obstacle\obj\Debug\net8.0\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\9 GRAND obstacle\obj\Debug\net8.0\refint\MiniGameSpeeder.dll
+F:\Document\DEV\C#\MiniGameSpeeder\9 GRAND obstacle\obj\Debug\net8.0\MiniGameSpeeder.pdb
+F:\Document\DEV\C#\MiniGameSpeeder\9 GRAND obstacle\obj\Debug\net8.0\MiniGameSpeeder.genruntimeconfig.cache
+F:\Document\DEV\C#\MiniGameSpeeder\9 GRAND obstacle\obj\Debug\net8.0\ref\MiniGameSpeeder.dll
